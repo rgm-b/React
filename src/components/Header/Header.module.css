@@ -1,0 +1,10 @@
+.title{
+    height: 70px;
+    font-size: 30px;
+    background-color: #282c34;
+    color: #fff;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    letter-spacing: 1.2px;
+}

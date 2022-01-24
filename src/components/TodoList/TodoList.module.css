@@ -1,0 +1,14 @@
+.listItems{
+    display:flex;
+    justify-content: space-between;
+    margin-top: 40px;
+}
+
+.close{
+    text-decoration: line-through;
+}
+
+.button{
+    margin-left: 10px;
+}
+
